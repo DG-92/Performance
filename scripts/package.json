@@ -1,0 +1,15 @@
+{
+  "name": "cypress-via-cep",
+  "version": "1.0.0",
+  "description": "Teste de performance ViaCEP com Cypress",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
